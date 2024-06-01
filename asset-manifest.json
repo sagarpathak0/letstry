@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/letstry/static/css/main.22b02f07.css",
+    "main.js": "/letstry/static/js/main.93c69712.js",
+    "static/media/meal.mp4": "/letstry/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/letstry/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/letstry/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/letstry/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/letstry/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/letstry/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/letstry/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/letstry/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/letstry/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/letstry/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/letstry/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/letstry/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/letstry/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/letstry/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/letstry/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/letstry/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/letstry/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/letstry/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/letstry/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/letstry/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/letstry/index.html",
+    "static/media/spoon.svg": "/letstry/static/media/spoon.d079f43fbcf509908d3865293080795a.svg"
+  },
+  "entrypoints": [
+    "static/css/main.22b02f07.css",
+    "static/js/main.93c69712.js"
+  ]
+}
